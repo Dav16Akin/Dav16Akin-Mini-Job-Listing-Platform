@@ -1,6 +1,6 @@
 "use client";
 
-import { JobFormValidation, JobDetailValidation } from "@/lib/validation";
+import { JobFormValidation } from "@/lib/validation";
 import { zodResolver } from "@hookform/resolvers/zod";
 import React, { useState } from "react";
 import { z } from "zod";
@@ -21,7 +21,7 @@ import {
   Info,
 } from "lucide-react";
 import { SelectItem } from "../ui/select";
-import { createJobAndDetails } from "@/lib/api";
+import { createJob } from "@/lib/api";
 
 export enum FormFieldType {
   INPUT = "input",
@@ -32,14 +32,11 @@ export enum FormFieldType {
 
 const locationtype = ["Remote", "Hybrid", "On-site"];
 
-// Combine both schemas
-const CombinedValidation = JobFormValidation.merge(JobDetailValidation);
-
 const CreateJobForm = () => {
   const [isLoading, setIsLoading] = useState(false);
 
-  const form = useForm<z.infer<typeof CombinedValidation>>({
-    resolver: zodResolver(CombinedValidation),
+  const form = useForm<z.infer<typeof JobFormValidation>>({
+    resolver: zodResolver(JobFormValidation),
     defaultValues: {
       title: "",
       companyName: "",
@@ -55,7 +52,7 @@ const CreateJobForm = () => {
     },
   });
 
-  async function onSubmit(values: z.infer<typeof CombinedValidation>) {
+  async function onSubmit(values: z.infer<typeof JobFormValidation>) {
     setIsLoading(true);
     try {
       const {
@@ -64,28 +61,25 @@ const CreateJobForm = () => {
         locationType,
         salaryRange,
         requirements,
+        description,
+        howToApply,
         benefits,
-        ...detailsData
       } = values;
 
-      const newJobAndDetails = await createJobAndDetails(
-        {
-          title,
-          companyName,
-          locationType,
-          salaryRange: `₦${salaryRange.min} - ₦${salaryRange.max}`,
-        },
-        {
-          ...detailsData,
-          requirements: requirements.split(",").map((r) => r.trim()),
-          benefits: benefits.split(",").map((b) => b.trim()),
-        }
-      );
+      const newJob = await createJob({
+        title,
+        companyName,
+        locationType,
+        salaryRange: `₦${salaryRange.min} - ₦${salaryRange.max}`,
+        description,
+        requirements: requirements.split(",").map((r) => r.trim()),
+        benefits: benefits.split(",").map((b) => b.trim()),
+        howToApply,
+      });
 
-      
       toast("Job and details created successfully");
       form.reset();
-      return newJobAndDetails
+      return newJob;
     } catch (error: any) {
       console.error("Error creating job and details: ", error);
     } finally {

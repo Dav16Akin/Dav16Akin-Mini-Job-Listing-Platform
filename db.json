@@ -5,181 +5,7 @@
       "title": "Frontend Developer",
       "companyName": "TechSpark",
       "locationType": "Remote",
-      "salaryRange": "₦200000 - ₦300000"
-    },
-    {
-      "id": "2",
-      "title": "Backend Developer",
-      "companyName": "CodeWorks",
-      "locationType": "On-site",
-      "salaryRange": "₦250000 - ₦350000"
-    },
-    {
-      "id": "3",
-      "title": "Full Stack Developer",
-      "companyName": "DevHub",
-      "locationType": "Hybrid",
-      "salaryRange": "₦300000 - ₦400000"
-    },
-    {
-      "id": "4",
-      "title": "UI/UX Designer",
-      "companyName": "Creative Labs",
-      "locationType": "Remote",
-      "salaryRange": "₦180000 - ₦250000"
-    },
-    {
-      "id": "5",
-      "title": "Mobile App Developer",
-      "companyName": "Appify",
-      "locationType": "Hybrid",
-      "salaryRange": "₦220000 - ₦320000"
-    },
-    {
-      "id": "6",
-      "title": "Data Analyst",
-      "companyName": "Insight Analytics",
-      "locationType": "Remote",
-      "salaryRange": "₦200000 - ₦280000"
-    },
-    {
-      "id": "7",
-      "title": "Product Manager",
-      "companyName": "InnovateX",
-      "locationType": "On-site",
-      "salaryRange": "₦400000 - ₦500000"
-    },
-    {
-      "id": "8",
-      "title": "Project Manager",
-      "companyName": "BuildTech",
-      "locationType": "Hybrid",
-      "salaryRange": "₦350000 - ₦450000"
-    },
-    {
-      "id": "9",
-      "title": "QA Engineer",
-      "companyName": "QualitySoft",
-      "locationType": "Remote",
-      "salaryRange": "₦200000 - ₦300000"
-    },
-    {
-      "id": "10",
-      "title": "DevOps Engineer",
-      "companyName": "CloudNet",
-      "locationType": "On-site",
-      "salaryRange": "₦300000 - ₦400000"
-    },
-    {
-      "id": "11",
-      "title": "Cybersecurity Analyst",
-      "companyName": "SecureIT",
-      "locationType": "Hybrid",
-      "salaryRange": "₦280000 - ₦380000"
-    },
-    {
-      "id": "12",
-      "title": "Technical Writer",
-      "companyName": "DocuSoft",
-      "locationType": "Remote",
-      "salaryRange": "₦150000 - ₦220000"
-    },
-    {
-      "id": "13",
-      "title": "Systems Administrator",
-      "companyName": "NetLink",
-      "locationType": "On-site",
-      "salaryRange": "₦250000 - ₦330000"
-    },
-    {
-      "id": "14",
-      "title": "Business Analyst",
-      "companyName": "BizTech",
-      "locationType": "Hybrid",
-      "salaryRange": "₦270000 - ₦350000"
-    },
-    {
-      "id": "15",
-      "title": "Graphic Designer",
-      "companyName": "DesignPro",
-      "locationType": "Remote",
-      "salaryRange": "₦150000 - ₦200000"
-    },
-    {
-      "id": "16",
-      "title": "Network Engineer",
-      "companyName": "ConnectIT",
-      "locationType": "On-site",
-      "salaryRange": "₦280000 - ₦350000"
-    },
-    {
-      "id": "17",
-      "title": "Cloud Architect",
-      "companyName": "SkyCloud",
-      "locationType": "Remote",
-      "salaryRange": "₦400000 - ₦550000"
-    },
-    {
-      "id": "18",
-      "title": "Machine Learning Engineer",
-      "companyName": "AIMinds",
-      "locationType": "Hybrid",
-      "salaryRange": "₦450000 - ₦600000"
-    },
-    {
-      "id": "19",
-      "title": "Software Tester",
-      "companyName": "BugFixers",
-      "locationType": "On-site",
-      "salaryRange": "₦180000 - ₦250000"
-    },
-    {
-      "id": "20",
-      "title": "Recruiter",
-      "companyName": "TalentHunt",
-      "locationType": "Remote",
-      "salaryRange": "₦200000 - ₦270000"
-    },
-    {
-      "id": "21",
-      "title": "HR Manager",
-      "companyName": "PeopleFirst",
-      "locationType": "Hybrid",
-      "salaryRange": "₦300000 - ₦400000"
-    },
-    {
-      "id": "22",
-      "title": "Content Strategist",
-      "companyName": "Contentify",
-      "locationType": "Remote",
-      "salaryRange": "₦200000 - ₦280000"
-    },
-    {
-      "id": "23",
-      "title": "SEO Specialist",
-      "companyName": "RankBoost",
-      "locationType": "On-site",
-      "salaryRange": "₦220000 - ₦300000"
-    },
-    {
-      "id": "24",
-      "title": "Digital Marketer",
-      "companyName": "MarketPro",
-      "locationType": "Hybrid",
-      "salaryRange": "₦200000 - ₦290000"
-    },
-    {
-      "id": "25",
-      "title": "Social Media Manager",
-      "companyName": "SocialBuzz",
-      "locationType": "Remote",
-      "salaryRange": "₦180000 - ₦250000"
-    }
-  ],
-  "details": [
-    {
-      "id": "1",
-      "jobId": 1,
+      "salaryRange": "₦200000 - ₦300000",
       "description": "We are looking for a skilled Frontend Developer to join our team and build amazing user interfaces using React.",
       "requirements": [
         "Strong knowledge of HTML, CSS, and JavaScript",
@@ -196,7 +22,10 @@
     },
     {
       "id": "2",
-      "jobId": 2,
+      "title": "Backend Developer",
+      "companyName": "CodeWorks",
+      "locationType": "On-site",
+      "salaryRange": "₦250000 - ₦350000",
       "description": "We require a Backend Developer to build and maintain robust server-side applications using Node.js.",
       "requirements": [
         "Proficiency in Node.js and Express",
@@ -213,7 +42,10 @@
     },
     {
       "id": "3",
-      "jobId": 3,
+      "title": "Full Stack Developer",
+      "companyName": "DevHub",
+      "locationType": "Hybrid",
+      "salaryRange": "₦300000 - ₦400000",
       "description": "Join our team as a Full Stack Developer to build end-to-end web applications for diverse clients.",
       "requirements": [
         "Experience with React and Node.js",
@@ -230,7 +62,10 @@
     },
     {
       "id": "4",
-      "jobId": 4,
+      "title": "UI/UX Designer",
+      "companyName": "Creative Labs",
+      "locationType": "Remote",
+      "salaryRange": "₦180000 - ₦250000",
       "description": "Creative Labs is looking for a UI/UX Designer to design beautiful and user-friendly interfaces.",
       "requirements": [
         "Strong portfolio of design projects",
@@ -247,7 +82,10 @@
     },
     {
       "id": "5",
-      "jobId": 5,
+      "title": "Mobile App Developer",
+      "companyName": "Appify",
+      "locationType": "Hybrid",
+      "salaryRange": "₦220000 - ₦320000",
       "description": "Appify needs a Mobile App Developer to develop Android and iOS applications with React Native.",
       "requirements": [
         "Proficiency in React Native",
@@ -264,7 +102,10 @@
     },
     {
       "id": "6",
-      "jobId": 6,
+      "title": "Data Analyst",
+      "companyName": "Insight Analytics",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦280000",
       "description": "Insight Analytics is looking for a Data Analyst to interpret complex datasets and provide actionable insights.",
       "requirements": [
         "Strong Excel and SQL skills",
@@ -281,7 +122,10 @@
     },
     {
       "id": "7",
-      "jobId": 7,
+      "title": "Product Manager",
+      "companyName": "InnovateX",
+      "locationType": "On-site",
+      "salaryRange": "₦400000 - ₦500000",
       "description": "InnovateX seeks a Product Manager to lead the development and launch of new products.",
       "requirements": [
         "Experience in product management",
@@ -298,7 +142,10 @@
     },
     {
       "id": "8",
-      "jobId": 8,
+      "title": "Project Manager",
+      "companyName": "BuildTech",
+      "locationType": "Hybrid",
+      "salaryRange": "₦350000 - ₦450000",
       "description": "BuildTech requires a Project Manager to oversee software development projects and ensure timely delivery.",
       "requirements": [
         "Experience managing software projects",
@@ -315,7 +162,10 @@
     },
     {
       "id": "9",
-      "jobId": 9,
+      "title": "QA Engineer",
+      "companyName": "QualitySoft",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦300000",
       "description": "QualitySoft is hiring a QA Engineer to design and execute tests ensuring software quality.",
       "requirements": [
         "Experience with automated testing tools",
@@ -332,7 +182,10 @@
     },
     {
       "id": "10",
-      "jobId": 10,
+      "title": "DevOps Engineer",
+      "companyName": "CloudNet",
+      "locationType": "On-site",
+      "salaryRange": "₦300000 - ₦400000",
       "description": "CloudNet needs a DevOps Engineer to manage infrastructure and deployment pipelines.",
       "requirements": [
         "Experience with AWS or Azure",
@@ -349,7 +202,10 @@
     },
     {
       "id": "11",
-      "jobId": 11,
+      "title": "Cybersecurity Analyst",
+      "companyName": "SecureIT",
+      "locationType": "Hybrid",
+      "salaryRange": "₦280000 - ₦380000",
       "description": "SecureIT is hiring a Cybersecurity Analyst to monitor and secure company systems against threats.",
       "requirements": [
         "Experience with security tools",
@@ -366,7 +222,10 @@
     },
     {
       "id": "12",
-      "jobId": 12,
+      "title": "Technical Writer",
+      "companyName": "DocuSoft",
+      "locationType": "Remote",
+      "salaryRange": "₦150000 - ₦220000",
       "description": "DocuSoft is looking for a Technical Writer to create clear and concise technical documentation.",
       "requirements": [
         "Excellent written communication skills",
@@ -383,7 +242,10 @@
     },
     {
       "id": "13",
-      "jobId": 13,
+      "title": "Systems Administrator",
+      "companyName": "NetLink",
+      "locationType": "On-site",
+      "salaryRange": "₦250000 - ₦330000",
       "description": "NetLink requires a Systems Administrator to maintain and manage IT infrastructure.",
       "requirements": [
         "Experience with Windows and Linux servers",
@@ -400,7 +262,10 @@
     },
     {
       "id": "14",
-      "jobId": 14,
+      "title": "Business Analyst",
+      "companyName": "BizTech",
+      "locationType": "Hybrid",
+      "salaryRange": "₦270000 - ₦350000",
       "description": "BizTech is hiring a Business Analyst to analyze business processes and provide data-driven solutions.",
       "requirements": [
         "Strong analytical skills",
@@ -417,7 +282,10 @@
     },
     {
       "id": "15",
-      "jobId": 15,
+      "title": "Graphic Designer",
+      "companyName": "DesignPro",
+      "locationType": "Remote",
+      "salaryRange": "₦150000 - ₦200000",
       "description": "DesignPro seeks a Graphic Designer to create visual content for marketing campaigns.",
       "requirements": [
         "Proficiency in Adobe Creative Suite",
@@ -434,7 +302,10 @@
     },
     {
       "id": "16",
-      "jobId": 16,
+      "title": "Network Engineer",
+      "companyName": "ConnectIT",
+      "locationType": "On-site",
+      "salaryRange": "₦280000 - ₦350000",
       "description": "ConnectIT is looking for a Network Engineer to design, implement, and maintain network systems.",
       "requirements": [
         "Experience with network setup and management",
@@ -451,7 +322,10 @@
     },
     {
       "id": "17",
-      "jobId": 17,
+      "title": "Cloud Architect",
+      "companyName": "SkyCloud",
+      "locationType": "Remote",
+      "salaryRange": "₦400000 - ₦550000",
       "description": "SkyCloud needs a Cloud Architect to design scalable cloud solutions for clients.",
       "requirements": [
         "Expertise in cloud platforms (AWS, Azure, GCP)",
@@ -468,7 +342,10 @@
     },
     {
       "id": "18",
-      "jobId": 18,
+      "title": "Machine Learning Engineer",
+      "companyName": "AIMinds",
+      "locationType": "Hybrid",
+      "salaryRange": "₦450000 - ₦600000",
       "description": "AIMinds is hiring a Machine Learning Engineer to build AI solutions for various applications.",
       "requirements": [
         "Strong Python skills",
@@ -485,7 +362,10 @@
     },
     {
       "id": "19",
-      "jobId": 19,
+      "title": "Software Tester",
+      "companyName": "BugFixers",
+      "locationType": "On-site",
+      "salaryRange": "₦180000 - ₦250000",
       "description": "BugFixers is looking for a Software Tester to perform manual and automated tests ensuring quality software releases.",
       "requirements": [
         "Experience with test case creation",
@@ -502,7 +382,10 @@
     },
     {
       "id": "20",
-      "jobId": 20,
+      "title": "Recruiter",
+      "companyName": "TalentHunt",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦270000",
       "description": "TalentHunt is hiring a Recruiter to identify and hire top talent for client companies.",
       "requirements": [
         "Strong people skills",
@@ -519,7 +402,10 @@
     },
     {
       "id": "21",
-      "jobId": 21,
+      "title": "HR Manager",
+      "companyName": "PeopleFirst",
+      "locationType": "Hybrid",
+      "salaryRange": "₦300000 - ₦400000",
       "description": "PeopleFirst requires an HR Manager to oversee HR operations and ensure compliance with policies.",
       "requirements": [
         "Experience as an HR Manager",
@@ -536,7 +422,10 @@
     },
     {
       "id": "22",
-      "jobId": 22,
+      "title": "Content Strategist",
+      "companyName": "Contentify",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦280000",
       "description": "Contentify is hiring a Content Strategist to plan and create engaging content for brands.",
       "requirements": [
         "Excellent writing and editing skills",
@@ -553,7 +442,10 @@
     },
     {
       "id": "23",
-      "jobId": 23,
+      "title": "SEO Specialist",
+      "companyName": "RankBoost",
+      "locationType": "On-site",
+      "salaryRange": "₦220000 - ₦300000",
       "description": "RankBoost is looking for an SEO Specialist to improve clients’ search engine rankings.",
       "requirements": [
         "Strong SEO knowledge",
@@ -570,7 +462,10 @@
     },
     {
       "id": "24",
-      "jobId": 24,
+      "title": "Digital Marketer",
+      "companyName": "MarketPro",
+      "locationType": "Hybrid",
+      "salaryRange": "₦200000 - ₦290000",
       "description": "MarketPro seeks a Digital Marketer to develop and execute online marketing strategies.",
       "requirements": [
         "Experience with digital marketing tools",
@@ -587,7 +482,10 @@
     },
     {
       "id": "25",
-      "jobId": 25,
+      "title": "Social Media Manager",
+      "companyName": "SocialBuzz",
+      "locationType": "Remote",
+      "salaryRange": "₦180000 - ₦250000",
       "description": "SocialBuzz is hiring a Social Media Manager to manage and grow social media channels for brands.",
       "requirements": [
         "Strong knowledge of social media platforms",

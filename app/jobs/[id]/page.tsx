@@ -1,6 +1,6 @@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { getDetails, getJobById } from "@/lib/api";
+import { getJobById } from "@/lib/api";
 import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import React from "react";
@@ -9,10 +9,8 @@ export default async function page({ params }: { params: { id: string } }) {
   const id = params.id;
 
   const data = await getJobById(id);
-  const jobData = await getDetails(id);
 
-  const { description, requirements, benefits, howToApply } = jobData[0]
-  const { title, companyName, locationType, salaryRange } = data[0]
+  const { title, companyName, locationType, salaryRange , description, requirements, benefits, howToApply } = data[0]
 
   return (
     <>

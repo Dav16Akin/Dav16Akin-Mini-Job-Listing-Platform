@@ -12,17 +12,11 @@ export const JobFormValidation = z.object({
     .refine((val) => val.max >= val.min, {
       message: "Max salary should be greater than or equal to min salary",
     }),
-});
-
-export const JobDetailValidation = z.object({
   description: z
     .string()
     .min(5, { message: "Description must be at least 5 characters." }),
-  requirements: z
-    .string()
-    .min(1, "Requirements cannot be empty"),
-  benefits: z
-    .string()
-    .min(1, "Benefits cannot be empty"),
+  requirements: z.string().min(1, "Requirements cannot be empty"),
+  benefits: z.string().min(1, "Benefits cannot be empty"),
   howToApply: z.string().min(5, "How to apply information is required"),
 });
+
