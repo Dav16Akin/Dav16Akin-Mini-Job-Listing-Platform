@@ -1,0 +1,606 @@
+{
+  "job": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "companyName": "TechSpark",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦300000"
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "companyName": "CodeWorks",
+      "locationType": "On-site",
+      "salaryRange": "₦250000 - ₦350000"
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Developer",
+      "companyName": "DevHub",
+      "locationType": "Hybrid",
+      "salaryRange": "₦300000 - ₦400000"
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "companyName": "Creative Labs",
+      "locationType": "Remote",
+      "salaryRange": "₦180000 - ₦250000"
+    },
+    {
+      "id": "5",
+      "title": "Mobile App Developer",
+      "companyName": "Appify",
+      "locationType": "Hybrid",
+      "salaryRange": "₦220000 - ₦320000"
+    },
+    {
+      "id": "6",
+      "title": "Data Analyst",
+      "companyName": "Insight Analytics",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦280000"
+    },
+    {
+      "id": "7",
+      "title": "Product Manager",
+      "companyName": "InnovateX",
+      "locationType": "On-site",
+      "salaryRange": "₦400000 - ₦500000"
+    },
+    {
+      "id": "8",
+      "title": "Project Manager",
+      "companyName": "BuildTech",
+      "locationType": "Hybrid",
+      "salaryRange": "₦350000 - ₦450000"
+    },
+    {
+      "id": "9",
+      "title": "QA Engineer",
+      "companyName": "QualitySoft",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦300000"
+    },
+    {
+      "id": "10",
+      "title": "DevOps Engineer",
+      "companyName": "CloudNet",
+      "locationType": "On-site",
+      "salaryRange": "₦300000 - ₦400000"
+    },
+    {
+      "id": "11",
+      "title": "Cybersecurity Analyst",
+      "companyName": "SecureIT",
+      "locationType": "Hybrid",
+      "salaryRange": "₦280000 - ₦380000"
+    },
+    {
+      "id": "12",
+      "title": "Technical Writer",
+      "companyName": "DocuSoft",
+      "locationType": "Remote",
+      "salaryRange": "₦150000 - ₦220000"
+    },
+    {
+      "id": "13",
+      "title": "Systems Administrator",
+      "companyName": "NetLink",
+      "locationType": "On-site",
+      "salaryRange": "₦250000 - ₦330000"
+    },
+    {
+      "id": "14",
+      "title": "Business Analyst",
+      "companyName": "BizTech",
+      "locationType": "Hybrid",
+      "salaryRange": "₦270000 - ₦350000"
+    },
+    {
+      "id": "15",
+      "title": "Graphic Designer",
+      "companyName": "DesignPro",
+      "locationType": "Remote",
+      "salaryRange": "₦150000 - ₦200000"
+    },
+    {
+      "id": "16",
+      "title": "Network Engineer",
+      "companyName": "ConnectIT",
+      "locationType": "On-site",
+      "salaryRange": "₦280000 - ₦350000"
+    },
+    {
+      "id": "17",
+      "title": "Cloud Architect",
+      "companyName": "SkyCloud",
+      "locationType": "Remote",
+      "salaryRange": "₦400000 - ₦550000"
+    },
+    {
+      "id": "18",
+      "title": "Machine Learning Engineer",
+      "companyName": "AIMinds",
+      "locationType": "Hybrid",
+      "salaryRange": "₦450000 - ₦600000"
+    },
+    {
+      "id": "19",
+      "title": "Software Tester",
+      "companyName": "BugFixers",
+      "locationType": "On-site",
+      "salaryRange": "₦180000 - ₦250000"
+    },
+    {
+      "id": "20",
+      "title": "Recruiter",
+      "companyName": "TalentHunt",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦270000"
+    },
+    {
+      "id": "21",
+      "title": "HR Manager",
+      "companyName": "PeopleFirst",
+      "locationType": "Hybrid",
+      "salaryRange": "₦300000 - ₦400000"
+    },
+    {
+      "id": "22",
+      "title": "Content Strategist",
+      "companyName": "Contentify",
+      "locationType": "Remote",
+      "salaryRange": "₦200000 - ₦280000"
+    },
+    {
+      "id": "23",
+      "title": "SEO Specialist",
+      "companyName": "RankBoost",
+      "locationType": "On-site",
+      "salaryRange": "₦220000 - ₦300000"
+    },
+    {
+      "id": "24",
+      "title": "Digital Marketer",
+      "companyName": "MarketPro",
+      "locationType": "Hybrid",
+      "salaryRange": "₦200000 - ₦290000"
+    },
+    {
+      "id": "25",
+      "title": "Social Media Manager",
+      "companyName": "SocialBuzz",
+      "locationType": "Remote",
+      "salaryRange": "₦180000 - ₦250000"
+    }
+  ],
+  "details": [
+    {
+      "id": "1",
+      "jobId": 1,
+      "description": "We are looking for a skilled Frontend Developer to join our team and build amazing user interfaces using React.",
+      "requirements": [
+        "Strong knowledge of HTML, CSS, and JavaScript",
+        "Experience with React.js",
+        "Understanding of REST APIs",
+        "Good communication skills"
+      ],
+      "benefits": [
+        "Remote work options",
+        "Health insurance",
+        "Flexible working hours"
+      ],
+      "howToApply": "Send your CV and portfolio to careers@techspark.com"
+    },
+    {
+      "id": "2",
+      "jobId": 2,
+      "description": "We require a Backend Developer to build and maintain robust server-side applications using Node.js.",
+      "requirements": [
+        "Proficiency in Node.js and Express",
+        "Experience with MongoDB",
+        "Knowledge of RESTful APIs",
+        "Team collaboration skills"
+      ],
+      "benefits": [
+        "On-site gym",
+        "Health and dental insurance",
+        "Professional development allowance"
+      ],
+      "howToApply": "Apply through our website at codeworks.com/careers"
+    },
+    {
+      "id": "3",
+      "jobId": 3,
+      "description": "Join our team as a Full Stack Developer to build end-to-end web applications for diverse clients.",
+      "requirements": [
+        "Experience with React and Node.js",
+        "Knowledge of SQL and NoSQL databases",
+        "Problem-solving mindset",
+        "Ability to work independently"
+      ],
+      "benefits": [
+        "Hybrid work model",
+        "Annual bonus",
+        "Paid certifications"
+      ],
+      "howToApply": "Send your resume to hr@devhub.com"
+    },
+    {
+      "id": "4",
+      "jobId": 4,
+      "description": "Creative Labs is looking for a UI/UX Designer to design beautiful and user-friendly interfaces.",
+      "requirements": [
+        "Strong portfolio of design projects",
+        "Experience with Figma or Adobe XD",
+        "Understanding of user-centered design",
+        "Excellent communication skills"
+      ],
+      "benefits": [
+        "Remote work",
+        "Design conference tickets",
+        "Flexible schedule"
+      ],
+      "howToApply": "Submit your portfolio to jobs@creativelabs.com"
+    },
+    {
+      "id": "5",
+      "jobId": 5,
+      "description": "Appify needs a Mobile App Developer to develop Android and iOS applications with React Native.",
+      "requirements": [
+        "Proficiency in React Native",
+        "Experience with mobile app deployment",
+        "Familiarity with REST APIs",
+        "Teamwork abilities"
+      ],
+      "benefits": [
+        "Hybrid work",
+        "Medical insurance",
+        "Team retreats"
+      ],
+      "howToApply": "Apply at careers@appify.com"
+    },
+    {
+      "id": "6",
+      "jobId": 6,
+      "description": "Insight Analytics is looking for a Data Analyst to interpret complex datasets and provide actionable insights.",
+      "requirements": [
+        "Strong Excel and SQL skills",
+        "Experience with Power BI or Tableau",
+        "Excellent analytical skills",
+        "Attention to detail"
+      ],
+      "benefits": [
+        "Remote work",
+        "Internet allowance",
+        "Health insurance"
+      ],
+      "howToApply": "Apply via insightanalytics.com/careers"
+    },
+    {
+      "id": "7",
+      "jobId": 7,
+      "description": "InnovateX seeks a Product Manager to lead the development and launch of new products.",
+      "requirements": [
+        "Experience in product management",
+        "Strong communication skills",
+        "Ability to work with cross-functional teams",
+        "Problem-solving mindset"
+      ],
+      "benefits": [
+        "On-site meals",
+        "Health insurance",
+        "Annual bonus"
+      ],
+      "howToApply": "Send CV to hr@innovatex.com"
+    },
+    {
+      "id": "8",
+      "jobId": 8,
+      "description": "BuildTech requires a Project Manager to oversee software development projects and ensure timely delivery.",
+      "requirements": [
+        "Experience managing software projects",
+        "Knowledge of Agile methodologies",
+        "Excellent organizational skills",
+        "Strong leadership qualities"
+      ],
+      "benefits": [
+        "Hybrid work model",
+        "Performance bonus",
+        "Professional training"
+      ],
+      "howToApply": "Apply through buildtech.com/careers"
+    },
+    {
+      "id": "9",
+      "jobId": 9,
+      "description": "QualitySoft is hiring a QA Engineer to design and execute tests ensuring software quality.",
+      "requirements": [
+        "Experience with automated testing tools",
+        "Strong analytical and problem-solving skills",
+        "Knowledge of SDLC",
+        "Attention to detail"
+      ],
+      "benefits": [
+        "Remote work options",
+        "Health insurance",
+        "Flexible hours"
+      ],
+      "howToApply": "Send your CV to qa@qualitysoft.com"
+    },
+    {
+      "id": "10",
+      "jobId": 10,
+      "description": "CloudNet needs a DevOps Engineer to manage infrastructure and deployment pipelines.",
+      "requirements": [
+        "Experience with AWS or Azure",
+        "Knowledge of CI/CD pipelines",
+        "Proficiency in Linux environments",
+        "Strong scripting skills"
+      ],
+      "benefits": [
+        "On-site gym",
+        "Health and dental insurance",
+        "Paid certifications"
+      ],
+      "howToApply": "Apply at careers@cloudnet.com"
+    },
+    {
+      "id": "11",
+      "jobId": 11,
+      "description": "SecureIT is hiring a Cybersecurity Analyst to monitor and secure company systems against threats.",
+      "requirements": [
+        "Experience with security tools",
+        "Understanding of network security",
+        "Problem-solving skills",
+        "Certifications are a plus"
+      ],
+      "benefits": [
+        "Hybrid work",
+        "Health insurance",
+        "Annual security conferences"
+      ],
+      "howToApply": "Submit CV to security@secureit.com"
+    },
+    {
+      "id": "12",
+      "jobId": 12,
+      "description": "DocuSoft is looking for a Technical Writer to create clear and concise technical documentation.",
+      "requirements": [
+        "Excellent written communication skills",
+        "Experience writing technical documents",
+        "Attention to detail",
+        "Ability to learn new tools quickly"
+      ],
+      "benefits": [
+        "Remote work",
+        "Internet allowance",
+        "Health insurance"
+      ],
+      "howToApply": "Apply via docusoft.com/careers"
+    },
+    {
+      "id": "13",
+      "jobId": 13,
+      "description": "NetLink requires a Systems Administrator to maintain and manage IT infrastructure.",
+      "requirements": [
+        "Experience with Windows and Linux servers",
+        "Knowledge of networking",
+        "Strong troubleshooting skills",
+        "Good communication skills"
+      ],
+      "benefits": [
+        "On-site cafeteria",
+        "Health insurance",
+        "Paid leave"
+      ],
+      "howToApply": "Send applications to admin@netlink.com"
+    },
+    {
+      "id": "14",
+      "jobId": 14,
+      "description": "BizTech is hiring a Business Analyst to analyze business processes and provide data-driven solutions.",
+      "requirements": [
+        "Strong analytical skills",
+        "Experience with business analysis tools",
+        "Excellent communication skills",
+        "Attention to detail"
+      ],
+      "benefits": [
+        "Hybrid work",
+        "Performance bonus",
+        "Professional development"
+      ],
+      "howToApply": "Apply at careers@biztech.com"
+    },
+    {
+      "id": "15",
+      "jobId": 15,
+      "description": "DesignPro seeks a Graphic Designer to create visual content for marketing campaigns.",
+      "requirements": [
+        "Proficiency in Adobe Creative Suite",
+        "Strong creative skills",
+        "Portfolio of design projects",
+        "Ability to meet deadlines"
+      ],
+      "benefits": [
+        "Remote work",
+        "Design conference tickets",
+        "Flexible schedule"
+      ],
+      "howToApply": "Submit portfolio to jobs@designpro.com"
+    },
+    {
+      "id": "16",
+      "jobId": 16,
+      "description": "ConnectIT is looking for a Network Engineer to design, implement, and maintain network systems.",
+      "requirements": [
+        "Experience with network setup and management",
+        "Knowledge of routing and switching",
+        "Certifications are an advantage",
+        "Good troubleshooting skills"
+      ],
+      "benefits": [
+        "On-site meals",
+        "Health insurance",
+        "Paid certifications"
+      ],
+      "howToApply": "Apply via connectit.com/careers"
+    },
+    {
+      "id": "17",
+      "jobId": 17,
+      "description": "SkyCloud needs a Cloud Architect to design scalable cloud solutions for clients.",
+      "requirements": [
+        "Expertise in cloud platforms (AWS, Azure, GCP)",
+        "Strong architecture design skills",
+        "Experience with DevOps tools",
+        "Good communication skills"
+      ],
+      "benefits": [
+        "Remote work",
+        "Health insurance",
+        "Annual bonus"
+      ],
+      "howToApply": "Send CV to careers@skycloud.com"
+    },
+    {
+      "id": "18",
+      "jobId": 18,
+      "description": "AIMinds is hiring a Machine Learning Engineer to build AI solutions for various applications.",
+      "requirements": [
+        "Strong Python skills",
+        "Experience with ML frameworks (TensorFlow, PyTorch)",
+        "Knowledge of data processing",
+        "Problem-solving mindset"
+      ],
+      "benefits": [
+        "Hybrid work",
+        "Research allowances",
+        "Health insurance"
+      ],
+      "howToApply": "Apply via aiminds.com/careers"
+    },
+    {
+      "id": "19",
+      "jobId": 19,
+      "description": "BugFixers is looking for a Software Tester to perform manual and automated tests ensuring quality software releases.",
+      "requirements": [
+        "Experience with test case creation",
+        "Knowledge of automation tools",
+        "Attention to detail",
+        "Strong communication skills"
+      ],
+      "benefits": [
+        "On-site meals",
+        "Health insurance",
+        "Performance bonus"
+      ],
+      "howToApply": "Send CV to testing@bugfixers.com"
+    },
+    {
+      "id": "20",
+      "jobId": 20,
+      "description": "TalentHunt is hiring a Recruiter to identify and hire top talent for client companies.",
+      "requirements": [
+        "Strong people skills",
+        "Experience with recruitment processes",
+        "Good negotiation skills",
+        "Excellent communication"
+      ],
+      "benefits": [
+        "Remote work",
+        "Internet allowance",
+        "Commission per hire"
+      ],
+      "howToApply": "Apply via talenthunt.com/careers"
+    },
+    {
+      "id": "21",
+      "jobId": 21,
+      "description": "PeopleFirst requires an HR Manager to oversee HR operations and ensure compliance with policies.",
+      "requirements": [
+        "Experience as an HR Manager",
+        "Strong leadership skills",
+        "Knowledge of labour laws",
+        "Excellent communication"
+      ],
+      "benefits": [
+        "Hybrid work",
+        "Health insurance",
+        "Annual bonus"
+      ],
+      "howToApply": "Send CV to hr@peoplefirst.com"
+    },
+    {
+      "id": "22",
+      "jobId": 22,
+      "description": "Contentify is hiring a Content Strategist to plan and create engaging content for brands.",
+      "requirements": [
+        "Excellent writing and editing skills",
+        "Experience with content planning",
+        "SEO knowledge",
+        "Strong organizational skills"
+      ],
+      "benefits": [
+        "Remote work",
+        "Content conference tickets",
+        "Flexible schedule"
+      ],
+      "howToApply": "Submit portfolio to jobs@contentify.com"
+    },
+    {
+      "id": "23",
+      "jobId": 23,
+      "description": "RankBoost is looking for an SEO Specialist to improve clients’ search engine rankings.",
+      "requirements": [
+        "Strong SEO knowledge",
+        "Experience with Google Analytics and SEMrush",
+        "Good analytical skills",
+        "Ability to work with content teams"
+      ],
+      "benefits": [
+        "On-site meals",
+        "Health insurance",
+        "Performance bonus"
+      ],
+      "howToApply": "Apply at careers@rankboost.com"
+    },
+    {
+      "id": "24",
+      "jobId": 24,
+      "description": "MarketPro seeks a Digital Marketer to develop and execute online marketing strategies.",
+      "requirements": [
+        "Experience with digital marketing tools",
+        "Knowledge of social media ads",
+        "Strong analytical skills",
+        "Creative thinking"
+      ],
+      "benefits": [
+        "Hybrid work",
+        "Health insurance",
+        "Performance bonus"
+      ],
+      "howToApply": "Send your CV to marketing@marketpro.com"
+    },
+    {
+      "id": "25",
+      "jobId": 25,
+      "description": "SocialBuzz is hiring a Social Media Manager to manage and grow social media channels for brands.",
+      "requirements": [
+        "Strong knowledge of social media platforms",
+        "Content creation skills",
+        "Analytics and reporting skills",
+        "Excellent communication"
+      ],
+      "benefits": [
+        "Remote work",
+        "Internet allowance",
+        "Flexible hours"
+      ],
+      "howToApply": "Apply via socialbuzz.com/careers"
+    }
+  ]
+}
