@@ -85,13 +85,14 @@ Dynamic Routing: View individual job details via dynamic routes in Next.js App R
 
 1. **Clone the repo**:  
    ```bash
-   git clone https://github.com/yourusername/job-board.git 
-   cd job-board
+   git clone /https://github.com/Dav16Akin/Dav16Akin-Mini-Job-Listing-Platform
+   cd Dav16Akin-Mini-Job-Listing-Platform
     
 2.  **Install Dependencies**:
     ```
     npm install  # or pnpm/yarn
 3.   **Run json-server**:
+    ```
     npx json-server --watch db.json --port 3000
 
 4.   **Run the Next.js app**:
